@@ -1,6 +1,6 @@
 # Laravel Nova Git Manager Tool
 
-This is a package for [Laravel Nova](https://nova.laravel.com/) which allows you to easily manager your Git.
+This is a package for [Laravel Nova](https://nova.laravel.com/) which allows you to easily manage your Git.
 
 [![Total Downloads](https://poser.pugx.org/mastani/nova-git-manager/downloads)](https://packagist.org/packages/mastani/nova-git-manager)
 [![Latest Stable Version](https://poser.pugx.org/mastani/nova-git-manager/v/stable)](https://packagist.org/packages/mastani/nova-git-manager)
